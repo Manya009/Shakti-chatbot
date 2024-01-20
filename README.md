@@ -40,5 +40,5 @@ python manage.py runserver
 
 ## System Demonstration:
 
-[![Video](https://i.ytimg.com/vi/cBGa91qHYy4/hqdefault.jpg)](https://www.youtube.com/watch?v=cBGa91qHYy4)
+[![Your Video](https://img.youtube.com/vi/TbUXT1-7m1s/0.jpg)](https://youtu.be/TbUXT1-7m1s?si=_w7q3GDI0Vsk-tLi)
 
