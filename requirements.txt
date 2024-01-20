@@ -1,0 +1,8 @@
+django
+django-pwa
+sentence-transformers
+langchain==0.0.348 
+huggingface-hub 
+chromadb
+pyttsx3
+python-dotenv
